@@ -4,3 +4,5 @@ This is a demo file
 I am an Aries 
 <br>
 Github is fun!
+<i>
+This is another line added in my git repository 
